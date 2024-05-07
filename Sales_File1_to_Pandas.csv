@@ -1,0 +1,543 @@
+CustomerID,CompanyName,City,PostalCode,SalesOrderID,OrderDate,ProductID,UnitPrice,OrderQty,ProductName,Product_864_Bought
+30027,Engineered Bike Systems,Oxnard,93030,71816,2008-06-01T00:00:00.0000000,953,728.9100,1,"Touring-2000 Blue, 60",NO
+30027,Engineered Bike Systems,Oxnard,93030,71816,2008-06-01T00:00:00.0000000,954,1430.4420,1,"Touring-1000 Yellow, 46",NO
+30027,Engineered Bike Systems,Oxnard,93030,71816,2008-06-01T00:00:00.0000000,715,29.9940,2,"Long-Sleeve Logo Jersey, L",NO
+30027,Engineered Bike Systems,Oxnard,93030,71816,2008-06-01T00:00:00.0000000,712,5.3940,4,AWC Logo Cap,NO
+30027,Engineered Bike Systems,Oxnard,93030,71816,2008-06-01T00:00:00.0000000,883,32.3940,3,"Short-Sleeve Classic Jersey, L",NO
+30027,Engineered Bike Systems,Oxnard,93030,71816,2008-06-01T00:00:00.0000000,961,445.4100,1,"Touring-3000 Yellow, 44",NO
+30027,Engineered Bike Systems,Oxnard,93030,71816,2008-06-01T00:00:00.0000000,948,63.9000,1,Front Brakes,NO
+30072,West Side Mart,Wokingham,RG41 1QW,71776,2008-06-01T00:00:00.0000000,907,63.9000,1,Rear Brakes,NO
+30033,Transport Bikes,Sandy,84070,71856,2008-06-01T00:00:00.0000000,962,445.4100,1,"Touring-3000 Yellow, 50",NO
+30033,Transport Bikes,Sandy,84070,71856,2008-06-01T00:00:00.0000000,945,54.8940,1,Front Derailleur,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,988,112.9980,2,"Mountain-500 Silver, 52",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,948,63.9000,2,Front Brakes,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,904,218.4540,4,"ML Mountain Frame-W - Silver, 40",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,742,818.7000,3,"HL Mountain Frame - Silver, 46",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,780,1391.9940,2,"Mountain-200 Silver, 42",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,945,54.8940,1,Front Derailleur,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,949,105.2940,3,LL Crankset,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,937,48.5940,2,HL Mountain Pedal,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,867,41.9940,2,"Women's Mountain Shorts, S",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,748,818.7000,1,"HL Mountain Frame - Silver, 38",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,905,218.4540,2,"ML Mountain Frame-W - Silver, 42",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,781,1391.9940,2,"Mountain-200 Silver, 46",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,869,41.9940,3,"Women's Mountain Shorts, L",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,783,1376.9940,5,"Mountain-200 Black, 42",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,784,1376.9940,2,"Mountain-200 Black, 46",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,951,242.9940,1,HL Crankset,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,747,809.7600,3,"HL Mountain Frame - Black, 38",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,809,37.1520,1,ML Mountain Handlebars,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,920,158.4300,2,"LL Mountain Frame - Silver, 52",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,743,809.7600,2,"HL Mountain Frame - Black, 42",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,715,29.9940,2,"Long-Sleeve Logo Jersey, L",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,944,158.4300,2,"LL Mountain Frame - Silver, 40",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,808,26.7240,1,LL Mountain Handlebars,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,909,23.4840,8,ML Mountain Seat/Saddle,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,925,149.8740,2,"LL Mountain Frame - Black, 44",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,782,1376.9940,2,"Mountain-200 Black, 38",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,910,31.5840,2,HL Mountain Seat/Saddle,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,996,72.8940,3,HL Bottom Bracket,NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,779,1391.9940,3,"Mountain-200 Silver, 38",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,924,149.8740,4,"LL Mountain Frame - Black, 42",NO
+29938,Trailblazing Sports,Cerritos,90703,71845,2008-06-01T00:00:00.0000000,952,12.1440,3,Chain,NO
+29584,Futuristic Bikes,Culver City,90232,71895,2008-06-01T00:00:00.0000000,909,23.4840,2,ML Mountain Seat/Saddle,NO
+29584,Futuristic Bikes,Culver City,90232,71895,2008-06-01T00:00:00.0000000,715,29.9940,2,"Long-Sleeve Logo Jersey, L",NO
+29584,Futuristic Bikes,Culver City,90232,71895,2008-06-01T00:00:00.0000000,864,38.1000,3,"Classic Vest, S",YES
+29638,Aerobic Exercise Company,Camarillo,93010,71915,2008-06-01T00:00:00.0000000,836,356.8980,3,"ML Road Frame-W - Yellow, 48",NO
+29638,Aerobic Exercise Company,Camarillo,93010,71915,2008-06-01T00:00:00.0000000,738,202.3320,2,"LL Road Frame - Black, 52",NO
+29638,Aerobic Exercise Company,Camarillo,93010,71915,2008-06-01T00:00:00.0000000,938,24.2940,4,LL Road Pedal,NO
+29638,Aerobic Exercise Company,Camarillo,93010,71915,2008-06-01T00:00:00.0000000,939,37.2540,3,ML Road Pedal,NO
+29638,Aerobic Exercise Company,Camarillo,93010,71915,2008-06-01T00:00:00.0000000,940,48.5940,1,HL Road Pedal,NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,979,445.4100,3,"Touring-3000 Blue, 50",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,962,445.4100,1,"Touring-3000 Yellow, 50",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,953,728.9100,1,"Touring-2000 Blue, 60",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,715,29.9940,2,"Long-Sleeve Logo Jersey, L",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,883,32.3940,2,"Short-Sleeve Classic Jersey, L",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,957,1430.4420,1,"Touring-1000 Yellow, 60",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,965,445.4100,2,"Touring-3000 Yellow, 62",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,952,12.1440,1,Chain,NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,948,63.9000,2,Front Brakes,NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,945,54.8940,1,Front Derailleur,NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,972,728.9100,1,"Touring-2000 Blue, 54",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,877,4.7700,1,Bike Wash - Dissolver,NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,958,445.4100,1,"Touring-3000 Blue, 54",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,969,1430.4420,1,"Touring-1000 Blue, 60",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,961,445.4100,2,"Touring-3000 Yellow, 44",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,966,1430.4420,2,"Touring-1000 Blue, 46",NO
+29653,Thrilling Bike Tours,Santa Fe,87501,71858,2008-06-01T00:00:00.0000000,712,5.3940,3,AWC Logo Cap,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,714,29.9940,3,"Long-Sleeve Logo Jersey, M",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,956,1430.4420,3,"Touring-1000 Yellow, 54",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,954,1430.4420,1,"Touring-1000 Yellow, 46",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,712,5.3940,10,AWC Logo Cap,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,877,4.7700,10,Bike Wash - Dissolver,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,996,72.8940,4,HL Bottom Bracket,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,864,38.1000,6,"Classic Vest, S",YES
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,876,72.0000,3,Hitch Rack - 4-Bike,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,959,445.4100,4,"Touring-3000 Blue, 58",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,971,728.9100,4,"Touring-2000 Blue, 50",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,870,2.9940,6,Water Bottle - 30 oz.,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,978,445.4100,1,"Touring-3000 Blue, 44",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,955,1430.4420,1,"Touring-1000 Yellow, 50",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,948,63.9000,1,Front Brakes,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,994,32.3940,1,LL Bottom Bracket,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,970,728.9100,1,"Touring-2000 Blue, 46",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,966,1430.4420,2,"Touring-1000 Blue, 46",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,884,32.3940,4,"Short-Sleeve Classic Jersey, XL",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,885,602.3460,2,"HL Touring Frame - Yellow, 60",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,715,29.9940,8,"Long-Sleeve Logo Jersey, L",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,894,72.8760,3,Rear Derailleur,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,957,1430.4420,1,"Touring-1000 Yellow, 60",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,967,1430.4420,2,"Touring-1000 Blue, 50",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,708,20.9940,7,"Sport-100 Helmet, Black",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,961,445.4100,3,"Touring-3000 Yellow, 44",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,979,445.4100,2,"Touring-3000 Blue, 50",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,958,445.4100,2,"Touring-3000 Blue, 54",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,963,445.4100,1,"Touring-3000 Yellow, 54",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,953,728.9100,1,"Touring-2000 Blue, 60",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,968,1430.4420,2,"Touring-1000 Blue, 54",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,951,242.9940,2,HL Crankset,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,945,54.8940,2,Front Derailleur,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,916,31.5840,1,HL Touring Seat/Saddle,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,886,200.0520,1,"LL Touring Frame - Yellow, 62",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,892,602.3460,1,"HL Touring Frame - Blue, 54",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,893,602.3460,1,"HL Touring Frame - Blue, 60",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,881,32.3940,6,"Short-Sleeve Classic Jersey, S",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,883,32.3940,4,"Short-Sleeve Classic Jersey, L",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,859,14.6940,1,"Half-Finger Gloves, M",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,865,38.1000,4,"Classic Vest, M",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,880,32.9940,9,Hydration Pack - 70 oz.,NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,711,20.9940,6,"Sport-100 Helmet, Blue",NO
+29485,Professional Sales and Service,Van Nuys,91411,71782,2008-06-01T00:00:00.0000000,707,20.9940,3,"Sport-100 Helmet, Red",NO
+29741,Central Bicycle Specialists,Maidenhead,SL67RJ,71946,2008-06-01T00:00:00.0000000,916,31.5840,1,HL Touring Seat/Saddle,NO
+29982,Discount Tours,Daly City,94015,71920,2008-06-01T00:00:00.0000000,973,1020.5940,1,"Road-350-W Yellow, 40",NO
+29982,Discount Tours,Daly City,94015,71920,2008-06-01T00:00:00.0000000,938,24.2940,3,LL Road Pedal,NO
+29982,Discount Tours,Daly City,94015,71920,2008-06-01T00:00:00.0000000,976,1020.5940,1,"Road-350-W Yellow, 48",NO
+29982,Discount Tours,Daly City,94015,71920,2008-06-01T00:00:00.0000000,884,32.3940,7,"Short-Sleeve Classic Jersey, XL",NO
+29982,Discount Tours,Daly City,94015,71920,2008-06-01T00:00:00.0000000,864,38.1000,3,"Classic Vest, S",YES
+29982,Discount Tours,Daly City,94015,71920,2008-06-01T00:00:00.0000000,876,72.0000,1,Hitch Rack - 4-Bike,NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,973,1020.5940,5,"Road-350-W Yellow, 40",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,876,72.0000,3,Hitch Rack - 4-Bike,NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,835,356.8980,2,"ML Road Frame-W - Yellow, 44",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,974,1020.5940,3,"Road-350-W Yellow, 42",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,707,20.9940,3,"Sport-100 Helmet, Red",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,813,72.1620,1,HL Road Handlebars,NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,938,24.2940,5,LL Road Pedal,NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,884,32.3940,5,"Short-Sleeve Classic Jersey, XL",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,711,20.9940,3,"Sport-100 Helmet, Blue",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,712,5.3940,1,AWC Logo Cap,NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,940,48.5940,5,HL Road Pedal,NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,792,1466.0100,3,"Road-250 Red, 58",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,976,1020.5940,5,"Road-350-W Yellow, 48",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,798,672.2940,5,"Road-550-W Yellow, 40",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,799,672.2940,4,"Road-550-W Yellow, 42",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,864,38.1000,4,"Classic Vest, S",YES
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,714,29.9940,2,"Long-Sleeve Logo Jersey, M",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,999,323.9940,4,"Road-750 Black, 52",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,998,323.9940,5,"Road-750 Black, 48",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,877,4.7700,6,Bike Wash - Dissolver,NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,796,1466.0100,3,"Road-250 Black, 58",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,708,20.9940,5,"Sport-100 Helmet, Black",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,865,38.1000,5,"Classic Vest, M",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,738,202.3320,3,"LL Road Frame - Black, 52",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,883,32.3940,3,"Short-Sleeve Classic Jersey, L",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,997,323.9940,3,"Road-750 Black, 44",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,870,2.9940,8,Water Bottle - 30 oz.,NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,795,1466.0100,6,"Road-250 Black, 52",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,874,5.3940,4,"Racing Socks, M",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,859,14.6940,2,"Half-Finger Gloves, M",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,975,1020.5940,5,"Road-350-W Yellow, 44",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,793,1466.0100,3,"Road-250 Black, 44",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,797,672.2940,5,"Road-550-W Yellow, 38",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,880,32.9940,7,Hydration Pack - 70 oz.,NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,977,323.9940,4,"Road-750 Black, 58",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,801,672.2940,5,"Road-550-W Yellow, 48",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,794,1466.0100,7,"Road-250 Black, 48",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,939,37.2540,6,ML Road Pedal,NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,715,29.9940,3,"Long-Sleeve Logo Jersey, L",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,881,32.3940,1,"Short-Sleeve Classic Jersey, S",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,875,5.3940,2,"Racing Socks, L",NO
+29546,Bulk Discount Store,London,SE1 8HL,71938,2008-06-01T00:00:00.0000000,800,672.2940,3,"Road-550-W Yellow, 44",NO
+29877,Paints and Solvents Company,Englewood,80110,71897,2008-06-01T00:00:00.0000000,966,1430.4420,1,"Touring-1000 Blue, 46",NO
+29877,Paints and Solvents Company,Englewood,80110,71897,2008-06-01T00:00:00.0000000,979,445.4100,4,"Touring-3000 Blue, 50",NO
+29877,Paints and Solvents Company,Englewood,80110,71897,2008-06-01T00:00:00.0000000,969,1430.4420,3,"Touring-1000 Blue, 60",NO
+29877,Paints and Solvents Company,Englewood,80110,71897,2008-06-01T00:00:00.0000000,884,32.3940,3,"Short-Sleeve Classic Jersey, XL",NO
+29877,Paints and Solvents Company,Englewood,80110,71897,2008-06-01T00:00:00.0000000,712,5.3940,4,AWC Logo Cap,NO
+29877,Paints and Solvents Company,Englewood,80110,71897,2008-06-01T00:00:00.0000000,954,1430.4420,2,"Touring-1000 Yellow, 46",NO
+29877,Paints and Solvents Company,Englewood,80110,71897,2008-06-01T00:00:00.0000000,864,38.1000,1,"Classic Vest, S",YES
+29877,Paints and Solvents Company,Englewood,80110,71897,2008-06-01T00:00:00.0000000,948,63.9000,1,Front Brakes,NO
+29847,Good Toys,Auburn,95603,71774,2008-06-01T00:00:00.0000000,836,356.8980,1,"ML Road Frame-W - Yellow, 48",NO
+29847,Good Toys,Auburn,95603,71774,2008-06-01T00:00:00.0000000,822,356.8980,1,"ML Road Frame-W - Yellow, 38",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,738,202.3320,4,"LL Road Frame - Black, 52",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,939,37.2540,6,ML Road Pedal,NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,793,1466.0100,3,"Road-250 Black, 44",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,977,323.9940,4,"Road-750 Black, 58",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,880,32.9940,9,Hydration Pack - 70 oz.,NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,859,14.6940,7,"Half-Finger Gloves, M",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,976,850.4950,25,"Road-350-W Yellow, 48",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,714,29.9940,6,"Long-Sleeve Logo Jersey, M",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,877,4.7700,8,Bike Wash - Dissolver,NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,813,72.1620,1,HL Road Handlebars,NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,881,32.3940,6,"Short-Sleeve Classic Jersey, S",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,873,1.3740,6,Patch Kit/8 Patches,NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,870,2.9940,10,Water Bottle - 30 oz.,NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,822,356.8980,1,"ML Road Frame-W - Yellow, 38",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,799,672.2940,1,"Road-550-W Yellow, 42",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,858,14.6940,2,"Half-Finger Gloves, S",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,860,14.6940,9,"Half-Finger Gloves, L",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,864,34.9250,15,"Classic Vest, S",YES
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,938,24.2940,3,LL Road Pedal,NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,883,31.3142,11,"Short-Sleeve Classic Jersey, L",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,722,202.3320,6,"LL Road Frame - Black, 58",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,884,32.3940,9,"Short-Sleeve Classic Jersey, XL",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,998,323.9940,7,"Road-750 Black, 48",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,999,323.9940,5,"Road-750 Black, 52",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,797,672.2940,4,"Road-550-W Yellow, 38",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,798,672.2940,1,"Road-550-W Yellow, 40",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,801,672.2940,1,"Road-550-W Yellow, 48",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,973,1020.5940,5,"Road-350-W Yellow, 40",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,974,986.5742,13,"Road-350-W Yellow, 42",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,940,48.5940,4,HL Road Pedal,NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,835,356.8980,3,"ML Road Frame-W - Yellow, 44",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,836,356.8980,4,"ML Road Frame-W - Yellow, 48",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,838,858.9000,4,"HL Road Frame - Black, 44",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,718,858.9000,2,"HL Road Frame - Red, 44",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,715,27.4945,17,"Long-Sleeve Logo Jersey, L",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,716,29.9940,4,"Long-Sleeve Logo Jersey, XL",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,875,5.3940,1,"Racing Socks, L",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,865,38.1000,10,"Classic Vest, M",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,712,5.2142,11,AWC Logo Cap,NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,711,19.2445,15,"Sport-100 Helmet, Blue",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,876,72.0000,2,Hitch Rack - 4-Bike,NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,707,20.9940,10,"Sport-100 Helmet, Red",NO
+29957,Eastside Department Store,Union City,94587,71783,2008-06-01T00:00:00.0000000,708,20.2942,11,"Sport-100 Helmet, Black",NO
+29644,Vigorous Sports Store,Oxon,OX16 8RS,71867,2008-06-01T00:00:00.0000000,717,858.9000,1,"HL Road Frame - Red, 62",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,905,218.4540,4,"ML Mountain Frame-W - Silver, 42",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,983,461.6940,2,"Mountain-400-W Silver, 46",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,988,112.9980,6,"Mountain-500 Silver, 52",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,748,818.7000,2,"HL Mountain Frame - Silver, 38",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,990,323.9940,1,"Mountain-500 Black, 42",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,926,149.8740,1,"LL Mountain Frame - Black, 48",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,743,809.7600,1,"HL Mountain Frame - Black, 42",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,782,1376.9940,4,"Mountain-200 Black, 38",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,918,158.4300,2,"LL Mountain Frame - Silver, 44",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,780,1391.9940,4,"Mountain-200 Silver, 42",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,937,48.5940,1,HL Mountain Pedal,NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,867,41.9940,6,"Women's Mountain Shorts, S",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,985,112.9980,1,"Mountain-500 Silver, 42",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,989,323.9940,2,"Mountain-500 Black, 40",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,991,323.9940,3,"Mountain-500 Black, 44",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,992,323.9940,1,"Mountain-500 Black, 48",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,993,323.9940,2,"Mountain-500 Black, 52",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,984,112.9980,2,"Mountain-500 Silver, 40",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,986,112.9980,3,"Mountain-500 Silver, 44",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,987,112.9980,3,"Mountain-500 Silver, 48",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,981,461.6940,2,"Mountain-400-W Silver, 40",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,982,461.6940,3,"Mountain-400-W Silver, 42",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,783,1376.9940,5,"Mountain-200 Black, 42",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,809,37.1520,3,ML Mountain Handlebars,NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,810,72.1620,1,HL Mountain Handlebars,NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,935,24.2940,2,LL Mountain Pedal,NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,925,149.8740,1,"LL Mountain Frame - Black, 44",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,869,41.9940,7,"Women's Mountain Shorts, L",NO
+30113,Nearby Cycle Shop,West Sussex,RH15 9UD,71780,2008-06-01T00:00:00.0000000,880,32.9940,1,Hydration Pack - 70 oz.,NO
+29568,Coalition Bike Company,El Segundo,90245,71899,2008-06-01T00:00:00.0000000,881,32.3940,2,"Short-Sleeve Classic Jersey, S",NO
+29568,Coalition Bike Company,El Segundo,90245,71899,2008-06-01T00:00:00.0000000,988,112.9980,1,"Mountain-500 Silver, 52",NO
+29568,Coalition Bike Company,El Segundo,90245,71899,2008-06-01T00:00:00.0000000,981,461.6940,1,"Mountain-400-W Silver, 40",NO
+29568,Coalition Bike Company,El Segundo,90245,71899,2008-06-01T00:00:00.0000000,743,809.7600,1,"HL Mountain Frame - Black, 42",NO
+29568,Coalition Bike Company,El Segundo,90245,71899,2008-06-01T00:00:00.0000000,808,26.7240,1,LL Mountain Handlebars,NO
+29568,Coalition Bike Company,El Segundo,90245,71899,2008-06-01T00:00:00.0000000,714,29.9940,2,"Long-Sleeve Logo Jersey, M",NO
+29568,Coalition Bike Company,El Segundo,90245,71899,2008-06-01T00:00:00.0000000,944,158.4300,2,"LL Mountain Frame - Silver, 40",NO
+29568,Coalition Bike Company,El Segundo,90245,71899,2008-06-01T00:00:00.0000000,937,48.5940,1,HL Mountain Pedal,NO
+29531,Remarkable Bike Store,Las Vegas,89106,71935,2008-06-01T00:00:00.0000000,874,5.3940,3,"Racing Socks, M",NO
+29531,Remarkable Bike Store,Las Vegas,89106,71935,2008-06-01T00:00:00.0000000,938,24.2940,1,LL Road Pedal,NO
+29531,Remarkable Bike Store,Las Vegas,89106,71935,2008-06-01T00:00:00.0000000,973,1020.5940,3,"Road-350-W Yellow, 40",NO
+29531,Remarkable Bike Store,Las Vegas,89106,71935,2008-06-01T00:00:00.0000000,976,1020.5940,2,"Road-350-W Yellow, 48",NO
+29531,Remarkable Bike Store,Las Vegas,89106,71935,2008-06-01T00:00:00.0000000,998,323.9940,1,"Road-750 Black, 48",NO
+29531,Remarkable Bike Store,Las Vegas,89106,71935,2008-06-01T00:00:00.0000000,875,5.2142,13,"Racing Socks, L",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,711,20.9940,4,"Sport-100 Helmet, Blue",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,838,858.9000,2,"HL Road Frame - Black, 44",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,714,29.9940,1,"Long-Sleeve Logo Jersey, M",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,940,48.5940,4,HL Road Pedal,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,883,29.6945,16,"Short-Sleeve Classic Jersey, L",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,913,31.5840,2,HL Road Seat/Saddle,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,738,202.3320,1,"LL Road Frame - Black, 52",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,722,202.3320,3,"LL Road Frame - Black, 58",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,835,356.8980,5,"ML Road Frame-W - Yellow, 44",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,718,858.9000,1,"HL Road Frame - Red, 44",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,715,29.9940,4,"Long-Sleeve Logo Jersey, L",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,716,29.9940,5,"Long-Sleeve Logo Jersey, XL",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,884,29.6945,15,"Short-Sleeve Classic Jersey, XL",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,875,5.3940,3,"Racing Socks, L",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,860,14.6940,4,"Half-Finger Gloves, L",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,712,5.3940,6,AWC Logo Cap,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,880,32.9940,10,Hydration Pack - 70 oz.,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,873,1.3740,6,Patch Kit/8 Patches,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,876,72.0000,10,Hitch Rack - 4-Bike,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,977,323.9940,7,"Road-750 Black, 58",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,798,672.2940,2,"Road-550-W Yellow, 40",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,813,72.1620,2,HL Road Handlebars,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,939,37.2540,4,ML Road Pedal,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,801,672.2940,2,"Road-550-W Yellow, 48",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,998,323.9940,6,"Road-750 Black, 48",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,999,323.9940,4,"Road-750 Black, 52",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,938,24.2940,3,LL Road Pedal,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,794,1466.0100,5,"Road-250 Black, 48",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,795,1466.0100,2,"Road-250 Black, 52",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,797,672.2940,10,"Road-550-W Yellow, 38",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,881,32.3940,8,"Short-Sleeve Classic Jersey, S",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,865,38.1000,1,"Classic Vest, M",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,864,34.9250,23,"Classic Vest, S",YES
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,976,1020.5940,9,"Road-350-W Yellow, 48",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,877,4.3725,17,Bike Wash - Dissolver,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,793,1466.0100,6,"Road-250 Black, 44",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,974,1020.5940,3,"Road-350-W Yellow, 42",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,707,20.9940,6,"Sport-100 Helmet, Red",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,859,14.6940,9,"Half-Finger Gloves, M",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,973,1020.5940,5,"Road-350-W Yellow, 40",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,870,2.8942,11,Water Bottle - 30 oz.,NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,717,858.9000,2,"HL Road Frame - Red, 62",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,858,14.6940,4,"Half-Finger Gloves, S",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,836,356.8980,4,"ML Road Frame-W - Yellow, 48",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,708,20.2942,12,"Sport-100 Helmet, Black",NO
+29796,Riding Cycles,Liverpool,L4 4HB,71797,2008-06-01T00:00:00.0000000,822,356.8980,2,"ML Road Frame-W - Yellow, 38",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,918,158.4300,4,"LL Mountain Frame - Silver, 44",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,983,461.6940,3,"Mountain-400-W Silver, 46",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,781,1391.9940,2,"Mountain-200 Silver, 46",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,868,41.9940,1,"Women's Mountain Shorts, M",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,810,72.1620,1,HL Mountain Handlebars,NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,980,461.6940,1,"Mountain-400-W Silver, 38",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,925,149.8740,2,"LL Mountain Frame - Black, 44",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,985,112.9980,2,"Mountain-500 Silver, 42",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,908,16.2720,1,LL Mountain Seat/Saddle,NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,867,40.5942,13,"Women's Mountain Shorts, S",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,782,1376.9940,3,"Mountain-200 Black, 38",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,937,48.5940,1,HL Mountain Pedal,NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,936,37.2540,1,ML Mountain Pedal,NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,743,809.7600,4,"HL Mountain Frame - Black, 42",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,904,218.4540,5,"ML Mountain Frame-W - Silver, 40",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,748,818.7000,1,"HL Mountain Frame - Silver, 38",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,910,31.5840,1,HL Mountain Seat/Saddle,NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,784,1376.9940,5,"Mountain-200 Black, 46",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,990,323.9940,2,"Mountain-500 Black, 42",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,992,323.9940,3,"Mountain-500 Black, 48",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,984,112.9980,3,"Mountain-500 Silver, 40",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,779,1391.9940,1,"Mountain-200 Silver, 38",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,780,1391.9940,1,"Mountain-200 Silver, 42",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,944,158.4300,2,"LL Mountain Frame - Silver, 40",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,808,26.7240,1,LL Mountain Handlebars,NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,809,37.1520,1,ML Mountain Handlebars,NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,935,24.2940,3,LL Mountain Pedal,NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,926,149.8740,1,"LL Mountain Frame - Black, 48",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,917,158.4300,6,"LL Mountain Frame - Silver, 42",NO
+29922,Closest Bicycle Store,Milton Keynes,MK8 8ZD,71832,2008-06-01T00:00:00.0000000,920,158.4300,1,"LL Mountain Frame - Silver, 52",NO
+30102,Sports Store,Cambridge,CB4 4BZ,71846,2008-06-01T00:00:00.0000000,936,37.2540,2,ML Mountain Pedal,NO
+30102,Sports Store,Cambridge,CB4 4BZ,71846,2008-06-01T00:00:00.0000000,739,818.7000,1,"HL Mountain Frame - Silver, 42",NO
+30102,Sports Store,Cambridge,CB4 4BZ,71846,2008-06-01T00:00:00.0000000,984,112.9980,1,"Mountain-500 Silver, 40",NO
+30102,Sports Store,Cambridge,CB4 4BZ,71846,2008-06-01T00:00:00.0000000,981,461.6940,2,"Mountain-400-W Silver, 40",NO
+29612,Channel Outlet,High Wycombe,HP10 9QY,71885,2008-06-01T00:00:00.0000000,876,72.0000,3,Hitch Rack - 4-Bike,NO
+29612,Channel Outlet,High Wycombe,HP10 9QY,71885,2008-06-01T00:00:00.0000000,884,32.3940,6,"Short-Sleeve Classic Jersey, XL",NO
+29612,Channel Outlet,High Wycombe,HP10 9QY,71885,2008-06-01T00:00:00.0000000,864,38.1000,3,"Classic Vest, S",YES
+30025,Essential Bike Works,Abingdon,OX14 4SE,71917,2008-06-01T00:00:00.0000000,875,5.3940,7,"Racing Socks, L",NO
+30089,Thrifty Parts and Sales,Oxnard,93030,71815,2008-06-01T00:00:00.0000000,738,202.3320,1,"LL Road Frame - Black, 52",NO
+30089,Thrifty Parts and Sales,Oxnard,93030,71815,2008-06-01T00:00:00.0000000,835,356.8980,2,"ML Road Frame-W - Yellow, 44",NO
+30089,Thrifty Parts and Sales,Oxnard,93030,71815,2008-06-01T00:00:00.0000000,874,5.3940,2,"Racing Socks, M",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,944,158.4300,3,"LL Mountain Frame - Silver, 40",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,985,112.9980,4,"Mountain-500 Silver, 42",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,996,72.8940,4,HL Bottom Bracket,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,707,20.9940,1,"Sport-100 Helmet, Red",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,926,149.8740,1,"LL Mountain Frame - Black, 48",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,808,26.7240,4,LL Mountain Handlebars,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,992,323.9940,5,"Mountain-500 Black, 48",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,951,242.9940,6,HL Crankset,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,780,1391.9940,3,"Mountain-200 Silver, 42",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,905,218.4540,2,"ML Mountain Frame-W - Silver, 42",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,747,809.7600,4,"HL Mountain Frame - Black, 38",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,867,40.5942,14,"Women's Mountain Shorts, S",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,935,24.2940,3,LL Mountain Pedal,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,945,54.8940,5,Front Derailleur,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,924,149.8740,5,"LL Mountain Frame - Black, 42",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,783,1376.9940,10,"Mountain-200 Black, 42",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,784,1376.9940,5,"Mountain-200 Black, 46",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,748,818.7000,5,"HL Mountain Frame - Silver, 38",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,981,461.6940,2,"Mountain-400-W Silver, 40",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,894,72.8760,5,Rear Derailleur,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,779,1391.9940,4,"Mountain-200 Silver, 38",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,782,1376.9940,8,"Mountain-200 Black, 38",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,869,41.9940,8,"Women's Mountain Shorts, L",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,952,12.1440,3,Chain,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,949,105.2940,3,LL Crankset,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,937,48.5940,5,HL Mountain Pedal,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,910,31.5840,3,HL Mountain Seat/Saddle,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,917,158.4300,2,"LL Mountain Frame - Silver, 42",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,994,32.3940,3,LL Bottom Bracket,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,984,112.9980,1,"Mountain-500 Silver, 40",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,860,14.6940,6,"Half-Finger Gloves, L",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,948,63.9000,4,Front Brakes,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,925,149.8740,6,"LL Mountain Frame - Black, 44",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,908,16.2720,3,LL Mountain Seat/Saddle,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,918,158.4300,1,"LL Mountain Frame - Silver, 44",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,743,809.7600,4,"HL Mountain Frame - Black, 42",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,739,818.7000,5,"HL Mountain Frame - Silver, 42",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,987,112.9980,2,"Mountain-500 Silver, 48",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,809,37.1520,5,ML Mountain Handlebars,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,904,218.4540,2,"ML Mountain Frame-W - Silver, 40",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,781,1391.9940,4,"Mountain-200 Silver, 46",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,868,41.9940,4,"Women's Mountain Shorts, M",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,988,112.9980,5,"Mountain-500 Silver, 52",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,742,818.7000,7,"HL Mountain Frame - Silver, 46",NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,936,37.2540,2,ML Mountain Pedal,NO
+30050,Metropolitan Bicycle Supply,London,W1N 9FA,71936,2008-06-01T00:00:00.0000000,909,23.4840,6,ML Mountain Seat/Saddle,NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,969,1430.4420,3,"Touring-1000 Blue, 60",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,978,445.4100,4,"Touring-3000 Blue, 44",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,996,72.8940,4,HL Bottom Bracket,NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,967,1430.4420,6,"Touring-1000 Blue, 50",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,970,728.9100,3,"Touring-2000 Blue, 46",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,956,1430.4420,1,"Touring-1000 Yellow, 54",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,960,445.4100,3,"Touring-3000 Blue, 62",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,994,32.3940,3,LL Bottom Bracket,NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,959,445.4100,1,"Touring-3000 Blue, 58",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,968,1430.4420,4,"Touring-1000 Blue, 54",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,966,1430.4420,3,"Touring-1000 Blue, 46",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,972,728.9100,5,"Touring-2000 Blue, 54",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,949,105.2940,4,LL Crankset,NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,958,445.4100,1,"Touring-3000 Blue, 54",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,945,54.8940,3,Front Derailleur,NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,971,728.9100,5,"Touring-2000 Blue, 50",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,953,728.9100,2,"Touring-2000 Blue, 60",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,889,602.3460,1,"HL Touring Frame - Yellow, 54",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,955,1430.4420,1,"Touring-1000 Yellow, 50",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,964,445.4100,3,"Touring-3000 Yellow, 58",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,916,31.5840,3,HL Touring Seat/Saddle,NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,948,63.9000,1,Front Brakes,NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,979,445.4100,3,"Touring-3000 Blue, 50",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,951,242.9940,3,HL Crankset,NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,954,1430.4420,3,"Touring-1000 Yellow, 46",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,952,12.1440,1,Chain,NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,965,445.4100,5,"Touring-3000 Yellow, 62",NO
+29932,Instruments and Parts Company,Gloucestershire,GL7 1RY,71898,2008-06-01T00:00:00.0000000,961,445.4100,2,"Touring-3000 Yellow, 44",NO
+29975,Sports Products Store,Santa Ana,92701,71863,2008-06-01T00:00:00.0000000,875,5.2142,11,"Racing Socks, L",NO
+29975,Sports Products Store,Santa Ana,92701,71863,2008-06-01T00:00:00.0000000,874,5.3940,2,"Racing Socks, M",NO
+29975,Sports Products Store,Santa Ana,92701,71863,2008-06-01T00:00:00.0000000,998,323.9940,2,"Road-750 Black, 48",NO
+29975,Sports Products Store,Santa Ana,92701,71863,2008-06-01T00:00:00.0000000,973,1020.5940,1,"Road-350-W Yellow, 40",NO
+29975,Sports Products Store,Santa Ana,92701,71863,2008-06-01T00:00:00.0000000,711,20.9940,1,"Sport-100 Helmet, Blue",NO
+29975,Sports Products Store,Santa Ana,92701,71863,2008-06-01T00:00:00.0000000,999,323.9940,3,"Road-750 Black, 52",NO
+29975,Sports Products Store,Santa Ana,92701,71863,2008-06-01T00:00:00.0000000,938,24.2940,2,LL Road Pedal,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,780,1391.9940,5,"Mountain-200 Silver, 42",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,981,461.6940,2,"Mountain-400-W Silver, 40",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,904,218.4540,1,"ML Mountain Frame-W - Silver, 40",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,987,112.9980,1,"Mountain-500 Silver, 48",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,783,1376.9940,7,"Mountain-200 Black, 42",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,781,1391.9940,5,"Mountain-200 Silver, 46",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,859,14.6940,2,"Half-Finger Gloves, M",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,869,41.9940,7,"Women's Mountain Shorts, L",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,908,16.2720,2,LL Mountain Seat/Saddle,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,712,5.3940,3,AWC Logo Cap,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,925,149.8740,1,"LL Mountain Frame - Black, 44",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,937,48.5940,2,HL Mountain Pedal,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,992,323.9940,3,"Mountain-500 Black, 48",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,980,461.6940,3,"Mountain-400-W Silver, 38",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,715,29.9940,3,"Long-Sleeve Logo Jersey, L",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,935,24.2940,4,LL Mountain Pedal,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,989,323.9940,1,"Mountain-500 Black, 40",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,984,112.9980,4,"Mountain-500 Silver, 40",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,982,461.6940,2,"Mountain-400-W Silver, 42",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,782,1376.9940,8,"Mountain-200 Black, 38",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,784,1376.9940,2,"Mountain-200 Black, 46",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,810,72.1620,1,HL Mountain Handlebars,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,926,149.8740,1,"LL Mountain Frame - Black, 48",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,714,29.9940,3,"Long-Sleeve Logo Jersey, M",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,870,2.9940,7,Water Bottle - 30 oz.,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,876,72.0000,4,Hitch Rack - 4-Bike,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,877,4.7700,5,Bike Wash - Dissolver,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,707,20.9940,2,"Sport-100 Helmet, Red",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,993,323.9940,1,"Mountain-500 Black, 52",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,864,38.1000,6,"Classic Vest, S",YES
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,867,41.9940,7,"Women's Mountain Shorts, S",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,809,37.1520,2,ML Mountain Handlebars,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,988,112.9980,3,"Mountain-500 Silver, 52",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,880,32.9940,5,Hydration Pack - 70 oz.,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,936,37.2540,1,ML Mountain Pedal,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,708,20.9940,4,"Sport-100 Helmet, Black",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,779,1391.9940,3,"Mountain-200 Silver, 38",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,991,323.9940,2,"Mountain-500 Black, 44",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,883,32.3940,5,"Short-Sleeve Classic Jersey, L",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,910,31.5840,1,HL Mountain Seat/Saddle,NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,881,32.3940,2,"Short-Sleeve Classic Jersey, S",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,985,112.9980,5,"Mountain-500 Silver, 42",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,711,20.9940,7,"Sport-100 Helmet, Blue",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,986,112.9980,1,"Mountain-500 Silver, 44",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,748,818.7000,7,"HL Mountain Frame - Silver, 38",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,884,32.3940,5,"Short-Sleeve Classic Jersey, XL",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,918,158.4300,2,"LL Mountain Frame - Silver, 44",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,905,218.4540,3,"ML Mountain Frame-W - Silver, 42",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,983,461.6940,4,"Mountain-400-W Silver, 46",NO
+29929,Many Bikes Store,Fullerton,92831,71902,2008-06-01T00:00:00.0000000,865,38.1000,6,"Classic Vest, M",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,891,602.3460,1,"HL Touring Frame - Blue, 50",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,972,728.9100,8,"Touring-2000 Blue, 54",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,953,728.9100,2,"Touring-2000 Blue, 60",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,916,31.5840,1,HL Touring Seat/Saddle,NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,958,445.4100,5,"Touring-3000 Blue, 54",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,957,1430.4420,3,"Touring-1000 Yellow, 60",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,969,1430.4420,9,"Touring-1000 Blue, 60",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,967,1430.4420,2,"Touring-1000 Blue, 50",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,979,445.4100,3,"Touring-3000 Blue, 50",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,961,445.4100,7,"Touring-3000 Yellow, 44",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,965,445.4100,2,"Touring-3000 Yellow, 62",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,970,728.9100,1,"Touring-2000 Blue, 46",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,954,1430.4420,3,"Touring-1000 Yellow, 46",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,955,1430.4420,1,"Touring-1000 Yellow, 50",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,947,54.9420,1,HL Touring Handlebars,NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,899,200.0520,1,"LL Touring Frame - Yellow, 44",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,900,200.0520,1,"LL Touring Frame - Yellow, 50",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,892,602.3460,6,"HL Touring Frame - Blue, 54",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,893,602.3460,1,"HL Touring Frame - Blue, 60",NO
+29660,Extreme Riding Supplies,Sherman Oaks,91403,71796,2008-06-01T00:00:00.0000000,885,602.3460,2,"HL Touring Frame - Yellow, 60",NO
+29781,The Bicycle Accessories Company,Alhambra,91801,71923,2008-06-01T00:00:00.0000000,870,2.9940,1,Water Bottle - 30 oz.,NO
+29781,The Bicycle Accessories Company,Alhambra,91801,71923,2008-06-01T00:00:00.0000000,874,5.3940,4,"Racing Socks, M",NO
+29781,The Bicycle Accessories Company,Alhambra,91801,71923,2008-06-01T00:00:00.0000000,875,5.2142,14,"Racing Socks, L",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,711,20.9940,2,"Sport-100 Helmet, Blue",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,885,602.3460,8,"HL Touring Frame - Yellow, 60",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,954,1430.4420,2,"Touring-1000 Yellow, 46",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,870,2.8942,11,Water Bottle - 30 oz.,NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,865,38.1000,8,"Classic Vest, M",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,970,728.9100,4,"Touring-2000 Blue, 46",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,959,445.4100,1,"Touring-3000 Blue, 58",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,714,29.9940,9,"Long-Sleeve Logo Jersey, M",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,712,5.3940,10,AWC Logo Cap,NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,972,728.9100,4,"Touring-2000 Blue, 54",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,877,4.7700,8,Bike Wash - Dissolver,NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,716,29.9940,5,"Long-Sleeve Logo Jersey, XL",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,965,430.5630,11,"Touring-3000 Yellow, 62",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,958,445.4100,6,"Touring-3000 Blue, 54",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,876,72.0000,6,Hitch Rack - 4-Bike,NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,899,200.0520,2,"LL Touring Frame - Yellow, 44",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,858,14.6940,6,"Half-Finger Gloves, S",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,889,602.3460,4,"HL Touring Frame - Yellow, 54",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,962,445.4100,7,"Touring-3000 Yellow, 50",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,895,200.0520,2,"LL Touring Frame - Blue, 50",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,957,1382.7606,12,"Touring-1000 Yellow, 60",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,979,445.4100,8,"Touring-3000 Blue, 50",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,961,445.4100,3,"Touring-3000 Yellow, 44",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,963,445.4100,5,"Touring-3000 Yellow, 54",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,953,728.9100,3,"Touring-2000 Blue, 60",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,966,1430.4420,4,"Touring-1000 Blue, 46",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,967,1430.4420,6,"Touring-1000 Blue, 50",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,969,1430.4420,10,"Touring-1000 Blue, 60",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,955,1430.4420,2,"Touring-1000 Yellow, 50",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,916,31.5840,2,HL Touring Seat/Saddle,NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,896,200.0520,3,"LL Touring Frame - Blue, 54",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,900,200.0520,1,"LL Touring Frame - Yellow, 50",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,893,602.3460,1,"HL Touring Frame - Blue, 60",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,715,29.9940,8,"Long-Sleeve Logo Jersey, L",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,881,32.3940,6,"Short-Sleeve Classic Jersey, S",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,883,32.3940,7,"Short-Sleeve Classic Jersey, L",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,884,32.3940,3,"Short-Sleeve Classic Jersey, XL",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,859,14.6940,5,"Half-Finger Gloves, M",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,864,34.9250,23,"Classic Vest, S",YES
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,880,32.9940,9,Hydration Pack - 70 oz.,NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,873,1.3740,8,Patch Kit/8 Patches,NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,707,20.9940,10,"Sport-100 Helmet, Red",NO
+29736,Action Bicycle Specialists,Woolston,WA1 4SY,71784,2008-06-01T00:00:00.0000000,708,20.2942,12,"Sport-100 Helmet, Black",NO
+30019,Tachometers and Accessories,Milton Keynes,MK8 8DF,71831,2008-06-01T00:00:00.0000000,869,41.9940,2,"Women's Mountain Shorts, L",NO
+30019,Tachometers and Accessories,Milton Keynes,MK8 8DF,71831,2008-06-01T00:00:00.0000000,782,1376.9940,1,"Mountain-200 Black, 38",NO
+30019,Tachometers and Accessories,Milton Keynes,MK8 8DF,71831,2008-06-01T00:00:00.0000000,867,41.9940,6,"Women's Mountain Shorts, S",NO
